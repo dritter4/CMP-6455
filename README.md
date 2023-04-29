@@ -1,4 +1,4 @@
-# CMP 6455 Workspace
+## CMP 6455 Workspace
 
 This repository contains a variety of web maps created for CMP 6455 Spatial Data Analytics.
 
